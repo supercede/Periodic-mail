@@ -1,0 +1,17 @@
+{
+  "name": "cron-job",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-cron": "^2.0.3",
+    "nodemailer": "^6.3.0",
+    "nodemon": "^1.19.3"
+  }
+}
